@@ -1,0 +1,8 @@
+2021-11-22 00:02:00,485  INFO [main] ReadPropertyFile:30 - navigation to url
+ 2021-11-22 00:02:06,020  INFO [main] ReadPropertyFile:38 - Assertion passed
+ 2021-11-22 00:02:06,036 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-11-22 00:02:06,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-11-22 00:02:06,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-11-22 00:02:06,039 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-11-22 00:02:06,039 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/keert/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 

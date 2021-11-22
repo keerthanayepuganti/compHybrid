@@ -1,0 +1,51 @@
+<suite name="Suite">
+
+
+<test thread-count="5" name="TestCase2">
+<classes>
+<class name="com.mindtree.pageobject.SearchPage"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase3">
+<classes>
+<class name="com.mindtree.pageobject.Gifts"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase4">
+<classes>
+<class name="com.mindtree.pageobject.CorporateGifts"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase5">
+<classes>
+<class name="com.mindtree.pageobject.HomeAndLifestyle"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase6">
+<classes>
+<class name="com.mindtree.pageobject.PersonalisedGifts"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase7">
+<classes>
+<class name="com.mindtree.pageobject.Top50"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase8">
+<classes>
+<class name="com.mindtree.pageobject.MouseActions"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase9">
+<classes>
+<class name="com.mindtree.pageobject.CartHandling"/>
+</classes>
+</test>
+<test thread-count="5" name="TestCase10">
+<classes>
+<class name="com.mindtree.pageobject.TrackOrderPage"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->

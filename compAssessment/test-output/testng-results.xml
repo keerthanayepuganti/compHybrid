@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="144768" started-at="2021-11-22T15:46:46 IST" finished-at="2021-11-22T15:49:11 IST">
+    <groups>
+    </groups>
+    <test name="TestCase2" duration-ms="13594" started-at="2021-11-22T15:46:46 IST" finished-at="2021-11-22T15:46:59 IST">
+      <class name="com.mindtree.pageobject.SearchPage">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.SearchPage@6e2c9341]" name="initialise" is-config="true" duration-ms="2393" started-at="2021-11-22T15:46:46 IST" finished-at="2021-11-22T15:46:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="SearchBar()[pri:0, instance:com.mindtree.pageobject.SearchPage@6e2c9341]" name="SearchBar" duration-ms="10251" started-at="2021-11-22T15:46:48 IST" finished-at="2021-11-22T15:46:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBar -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.SearchPage@6e2c9341]" name="close" is-config="true" duration-ms="907" started-at="2021-11-22T15:46:58 IST" finished-at="2021-11-22T15:46:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.SearchPage -->
+    </test> <!-- TestCase2 -->
+    <test name="TestCase3" duration-ms="11237" started-at="2021-11-22T15:46:59 IST" finished-at="2021-11-22T15:47:11 IST">
+      <class name="com.mindtree.pageobject.Gifts">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.Gifts@442675e1]" name="initialise" is-config="true" duration-ms="1575" started-at="2021-11-22T15:46:59 IST" finished-at="2021-11-22T15:47:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="GiftHover()[pri:0, instance:com.mindtree.pageobject.Gifts@442675e1]" name="GiftHover" duration-ms="8783" started-at="2021-11-22T15:47:01 IST" finished-at="2021-11-22T15:47:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftHover -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.Gifts@442675e1]" name="close" is-config="true" duration-ms="876" started-at="2021-11-22T15:47:10 IST" finished-at="2021-11-22T15:47:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.Gifts -->
+    </test> <!-- TestCase3 -->
+    <test name="TestCase4" duration-ms="13504" started-at="2021-11-22T15:47:11 IST" finished-at="2021-11-22T15:47:24 IST">
+      <class name="com.mindtree.pageobject.CorporateGifts">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.CorporateGifts@641147d0]" name="initialise" is-config="true" duration-ms="1460" started-at="2021-11-22T15:47:11 IST" finished-at="2021-11-22T15:47:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="PersonalizedGift()[pri:0, instance:com.mindtree.pageobject.CorporateGifts@641147d0]" name="PersonalizedGift" duration-ms="11218" started-at="2021-11-22T15:47:12 IST" finished-at="2021-11-22T15:47:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalizedGift -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.CorporateGifts@641147d0]" name="close" is-config="true" duration-ms="824" started-at="2021-11-22T15:47:23 IST" finished-at="2021-11-22T15:47:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.CorporateGifts -->
+    </test> <!-- TestCase4 -->
+    <test name="TestCase5" duration-ms="10852" started-at="2021-11-22T15:47:24 IST" finished-at="2021-11-22T15:47:35 IST">
+      <class name="com.mindtree.pageobject.HomeAndLifestyle">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.HomeAndLifestyle@38364841]" name="initialise" is-config="true" duration-ms="1457" started-at="2021-11-22T15:47:24 IST" finished-at="2021-11-22T15:47:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="HomeAndLifestyleHover()[pri:0, instance:com.mindtree.pageobject.HomeAndLifestyle@38364841]" name="HomeAndLifestyleHover" duration-ms="8504" started-at="2021-11-22T15:47:26 IST" finished-at="2021-11-22T15:47:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeAndLifestyleHover -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.HomeAndLifestyle@38364841]" name="close" is-config="true" duration-ms="889" started-at="2021-11-22T15:47:34 IST" finished-at="2021-11-22T15:47:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.HomeAndLifestyle -->
+    </test> <!-- TestCase5 -->
+    <test name="TestCase6" duration-ms="13996" started-at="2021-11-22T15:47:35 IST" finished-at="2021-11-22T15:47:49 IST">
+      <class name="com.mindtree.pageobject.PersonalisedGifts">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.PersonalisedGifts@473b46c3]" name="initialise" is-config="true" duration-ms="1471" started-at="2021-11-22T15:47:35 IST" finished-at="2021-11-22T15:47:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="PersonalizedGift()[pri:0, instance:com.mindtree.pageobject.PersonalisedGifts@473b46c3]" name="PersonalizedGift" duration-ms="11625" started-at="2021-11-22T15:47:36 IST" finished-at="2021-11-22T15:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalizedGift -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.PersonalisedGifts@473b46c3]" name="close" is-config="true" duration-ms="898" started-at="2021-11-22T15:47:48 IST" finished-at="2021-11-22T15:47:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.PersonalisedGifts -->
+    </test> <!-- TestCase6 -->
+    <test name="TestCase7" duration-ms="14204" started-at="2021-11-22T15:47:49 IST" finished-at="2021-11-22T15:48:03 IST">
+      <class name="com.mindtree.pageobject.Top50">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.Top50@19dc67c2]" name="initialise" is-config="true" duration-ms="1427" started-at="2021-11-22T15:47:49 IST" finished-at="2021-11-22T15:47:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="Top50()[pri:0, instance:com.mindtree.pageobject.Top50@19dc67c2]" name="Top50" duration-ms="11892" started-at="2021-11-22T15:47:50 IST" finished-at="2021-11-22T15:48:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Top50 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.Top50@19dc67c2]" name="close" is-config="true" duration-ms="879" started-at="2021-11-22T15:48:02 IST" finished-at="2021-11-22T15:48:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.Top50 -->
+    </test> <!-- TestCase7 -->
+    <test name="TestCase8" duration-ms="24585" started-at="2021-11-22T15:48:03 IST" finished-at="2021-11-22T15:48:28 IST">
+      <class name="com.mindtree.pageobject.MouseActions">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.MouseActions@551bdc27]" name="initialise" is-config="true" duration-ms="1572" started-at="2021-11-22T15:48:03 IST" finished-at="2021-11-22T15:48:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.mindtree.pageobject.MouseActions@551bdc27]" name="logintest" duration-ms="22739" started-at="2021-11-22T15:48:05 IST" finished-at="2021-11-22T15:48:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.MouseActions@551bdc27]" name="close" is-config="true" duration-ms="272" started-at="2021-11-22T15:48:28 IST" finished-at="2021-11-22T15:48:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.MouseActions -->
+    </test> <!-- TestCase8 -->
+    <test name="TestCase9" duration-ms="33930" started-at="2021-11-22T15:48:28 IST" finished-at="2021-11-22T15:49:02 IST">
+      <class name="com.mindtree.pageobject.CartHandling">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.CartHandling@6a472554]" name="initialise" is-config="true" duration-ms="1507" started-at="2021-11-22T15:48:28 IST" finished-at="2021-11-22T15:48:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.mindtree.pageobject.CartHandling@6a472554]" name="logintest" duration-ms="32142" started-at="2021-11-22T15:48:29 IST" finished-at="2021-11-22T15:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.CartHandling@6a472554]" name="close" is-config="true" duration-ms="279" started-at="2021-11-22T15:49:01 IST" finished-at="2021-11-22T15:49:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.CartHandling -->
+    </test> <!-- TestCase9 -->
+    <test name="TestCase10" duration-ms="8824" started-at="2021-11-22T15:49:02 IST" finished-at="2021-11-22T15:49:11 IST">
+      <class name="com.mindtree.pageobject.TrackOrderPage">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.mindtree.pageobject.TrackOrderPage@69b794e2]" name="initialise" is-config="true" duration-ms="1479" started-at="2021-11-22T15:49:02 IST" finished-at="2021-11-22T15:49:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.mindtree.pageobject.TrackOrderPage@69b794e2]" name="logintest" duration-ms="7269" started-at="2021-11-22T15:49:03 IST" finished-at="2021-11-22T15:49:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.mindtree.pageobject.TrackOrderPage@69b794e2]" name="close" is-config="true" duration-ms="73" started-at="2021-11-22T15:49:10 IST" finished-at="2021-11-22T15:49:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.mindtree.pageobject.TrackOrderPage -->
+    </test> <!-- TestCase10 -->
+  </suite> <!-- Suite -->
+</testng-results>

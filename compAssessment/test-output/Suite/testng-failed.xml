@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="TestCase2(failed)">
+    <classes>
+      <class name="com.mindtree.pageobject.SearchPage">
+        <methods>
+          <include name="SearchBar"/>
+          <include name="close"/>
+          <include name="initialise"/>
+        </methods>
+      </class> <!-- com.mindtree.pageobject.SearchPage -->
+    </classes>
+  </test> <!-- TestCase2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
